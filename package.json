@@ -1,0 +1,15 @@
+{
+  "name": "person-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@microsoft/mgt": "^1.1.1",
+    "es-dev-server": "^1.46.0"
+  }
+}
